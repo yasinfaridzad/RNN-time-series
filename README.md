@@ -1,38 +1,59 @@
-# ⚡ Stromverbrauch-Vorhersage mit Recurrent Neural Networks (RNN)
 
-Dieses Projekt zeigt, wie ein **Recurrent Neural Network (RNN)** verwendet wird, um den **Stromverbrauch auf Basis historischer Daten vorherzusagen**.
+> 🇩🇪 Lies dieses README auf Deutsch: [README_de.md](README_de.md)
 
-Das Modell nutzt **TensorFlow/Keras** zur Modellierung zeitabhängiger Zusammenhänge im Energieverbrauch.
+# ⚡ Electricity Consumption Forecasting with Recurrent Neural Networks (RNN)
 
-## 🔍 Inhalte
+This project demonstrates how to use a **Recurrent Neural Network (RNN)** to forecast **electricity consumption** based on historical usage data.
 
-- Laden und Vorverarbeitung von Stromverbrauchsdaten
-- Erstellung eines RNN-Modells mit Keras
-- Training und Evaluation des Modells
-- Visualisierung der Vorhersageergebnisse
+The model is implemented using **TensorFlow/Keras** to capture temporal patterns in energy demand.
 
-## 🖼 Beispiel-Plots
+## 🔍 Project Overview
 
-### Vorhersage 1
+- Load and preprocess electricity consumption data
+- Build an RNN model using Keras
+- Train and evaluate the model
+- Visualize prediction results
+
+## 🖼 Example Plots
+
+### Prediction Sample 1
 ![Plot 1](plot1.jpg)
 
-### Vorhersage 2
+### Prediction Sample 2
 ![Plot 2](plot2.jpg)
 
-### Ergebnisses
-![Plot 3](plot3.jpg)
+## 🚀 Installation & Usage
 
-
-## 🚀 Installation & Ausführung
-
-### Voraussetzungen
+### Requirements
 - Python 3.8+
 - TensorFlow
 - NumPy
 - Matplotlib
 
-### Installation (lokal)
+### Installation (local)
 ```bash
-git clone https://github.com/dein-benutzername/RNN-time-series.git
+git clone https://github.com/your-username/RNN-time-series.git
 cd RNN-time-series
 pip install -r requirements.txt
+```
+
+### Run the Notebook
+```bash
+jupyter notebook RNNs_pretty.ipynb
+```
+
+## 📂 Project Structure
+
+| File                   | Description                                   |
+|------------------------|-----------------------------------------------|
+| `RNNs_pretty.ipynb`    | Cleaned notebook with the RNN model and code  |
+| `plot1.jpg`, `plot2.jpg` | Example result visualizations                |
+| `requirements.txt`     | List of Python dependencies                   |
+
+## 📜 License
+
+This project is licensed under the MIT License – feel free to use, modify, and share!
+
+---
+
+*Created with ❤️ by [your name or GitHub profile]*
