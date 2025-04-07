@@ -1,23 +1,29 @@
-# 🧠 RNN-Zeitreihen-Vorhersage mit Keras
+# ⚡ Stromverbrauch-Vorhersage mit Recurrent Neural Networks (RNN)
 
-Dieses Projekt zeigt die Anwendung eines **Recurrent Neural Network (RNN)** zur Vorhersage von Zeitreihendaten – z. B. Temperatur, Sensorwerte oder andere Trends.
+Dieses Projekt zeigt, wie ein **Recurrent Neural Network (RNN)** verwendet wird, um den **Stromverbrauch auf Basis historischer Daten vorherzusagen**.
 
-Das Modell wird mit **TensorFlow/Keras** gebaut und anhand einfacher Daten trainiert und evaluiert.
+Das Modell nutzt **TensorFlow/Keras** zur Modellierung zeitabhängiger Zusammenhänge im Energieverbrauch.
 
 ## 🔍 Inhalte
 
-- Datenvorverarbeitung
-- RNN-Modell mit Keras
-- Training und Evaluation
-- Visualisierung der Vorhersage
+- Laden und Vorverarbeitung von Stromverbrauchsdaten
+- Erstellung eines RNN-Modells mit Keras
+- Training und Evaluation des Modells
+- Visualisierung der Vorhersageergebnisse
 
-## 🖼 Beispiel-Plot
+## 🖼 Beispiel-Plots
 
+### Vorhersage 1
 ![Plot 1](plot1.jpg)
+
+### Vorhersage 2
 ![Plot 2](plot2.jpg)
-![Plot 1](plot3.jpg)
+
+### Ergebnisses
+![Plot 3](plot3.jpg)
 
 
+## 🚀 Installation & Ausführung
 
 ### Voraussetzungen
 - Python 3.8+
@@ -27,6 +33,6 @@ Das Modell wird mit **TensorFlow/Keras** gebaut und anhand einfacher Daten train
 
 ### Installation (lokal)
 ```bash
-git clone https://github.com/dein-benutzername/rnn-time-series.git
-cd rnn-time-series
+git clone https://github.com/dein-benutzername/RNN-time-series.git
+cd RNN-time-series
 pip install -r requirements.txt
