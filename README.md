@@ -51,7 +51,7 @@ jupyter notebook RNNs_pretty.ipynb
 | File                   | Description                                   |
 |------------------------|-----------------------------------------------|
 | `RNNs_pretty.ipynb`    | Cleaned notebook with the RNN model and code  |
-| `plot1.jpg`, `plot2.jpg` | Example result visualizations                |
+| `plot1.jpg`, `plot2.jpg`, `plot3.jpg` | Example result visualizations     |
 | `requirements.txt`     | List of Python dependencies                   |
 
 ## 📜 License

@@ -50,7 +50,7 @@ jupyter notebook RNNs_pretty.ipynb
 | Datei                  | Beschreibung                             |
 |------------------------|-------------------------------------------|
 | `RNNs_pretty.ipynb`    | RNN-Modell für Stromverbrauch             |
-| `plot1.jpg`, `plot2.jpg` | Visualisierung echter vs. prognostizierter Werte |
+| `plot1.jpg`, `plot2.jpg`, `plot3.jpg` | Visualisierung echter vs. prognostizierter Werte |
 | `requirements.txt`     | Python-Abhängigkeiten                    |
 
 ## 📜 Lizenz
