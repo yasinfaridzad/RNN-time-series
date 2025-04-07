@@ -13,8 +13,6 @@ Das Modell wird mit **TensorFlow/Keras** gebaut und anhand einfacher Daten train
 
 ## 🖼 Beispiel-Plot
 
-![Ergebnisse](pfad/zum/screenshot.png)  
-*Visualisierung der echten vs. vorhergesagten Werte*
 ![Plot 1](plot1.jpg)
 ![Plot 2](plot2.jpg)
 ![Plot 1](plot3.jpg)
