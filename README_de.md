@@ -22,6 +22,9 @@ Das Modell nutzt **TensorFlow/Keras** zur Modellierung zeitabhängiger Zusammenh
 ### Vorhersage 2
 ![Plot 2](plot2.jpg)
 
+### Vorhersage 3
+![Plot 3](plot3.jpg)
+
 ## 🚀 Installation & Ausführung
 
 ### Voraussetzungen

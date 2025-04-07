@@ -16,11 +16,15 @@ The model is implemented using **TensorFlow/Keras** to capture temporal patterns
 
 ## 🖼 Example Plots
 
+
 ### Prediction Sample 1
 ![Plot 1](plot1.jpg)
 
 ### Prediction Sample 2
 ![Plot 2](plot2.jpg)
+
+### Prediction Sample 3
+![Plot 3](plot3.jpg)
 
 ## 🚀 Installation & Usage
 
