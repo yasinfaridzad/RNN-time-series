@@ -59,4 +59,4 @@ Dieses Projekt steht unter der MIT-Lizenz – du darfst es gerne verwenden, anpa
 
 ---
 
-*Erstellt mit ❤️ von [dein Name oder GitHub-Profil]*
+*Erstellt mit ❤️ von Yasin Faridzad*

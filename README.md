@@ -60,4 +60,4 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 ---
 
-*Created with ❤️ by [your name or GitHub profile]*
+*Created with ❤️ by Yasin Faridzad*
